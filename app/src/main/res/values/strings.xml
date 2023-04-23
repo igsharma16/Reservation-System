@@ -15,7 +15,10 @@
     <string name="text6">Settings</string>
 
 
-<!--    For options List Activity-->
+    <!--    For options List Activity-->
     <string name="options">Services</string>
 
+
+    <!-- For the First Interface Activity -->
+    <string name="vandey">Vandey Bharat Train Logo</string>
 </resources>

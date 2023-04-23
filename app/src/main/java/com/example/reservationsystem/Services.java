@@ -10,7 +10,7 @@ public class Services {
 
     public static final Services[] option = {
             new Services("PNR Search" , "Check current Ticket Status") ,
-            new Services("By Station" , "Check Which train will arrive here") ,
+            new Services("Search By Station" , "Check Which train will arrive here") ,
             new Services("By Train Name" , "Locate Live Train Status") ,
             new Services("Seat Availability" , "For checking available seats") ,
             new Services("Customer Settings" , "For ease of customer")

@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         String userText = userId.getText().toString();
         String passText = password.getText().toString();
 
-        Intent intent = new Intent(this , OptionsActivity.class);  // To set Intent to Category Activity
+        Intent intent = new Intent(this , First_Interface.class);  // To set Intent to Category Activity
 
         if(new SignIn().follow(userText , passText)) {
             startActivity(intent);
