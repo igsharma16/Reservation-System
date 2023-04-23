@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reservation System</string>
+    <string name="user_name">User ID</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="sign_up">New User? Register</string>
+    <string name="imgDesc">Logo of the Sign up</string>
+
+
+    <string name="text0">PNR Search</string>
+    <string name="text2">Live Status</string>
+    <string name="text3">Seat Availability</string>
+    <string name="text4">By Station</string>
+    <string name="text5">My Bookings</string>
+    <string name="text6">Settings</string>
+
+
+<!--    For options List Activity-->
+    <string name="options">Services</string>
+
+</resources>
