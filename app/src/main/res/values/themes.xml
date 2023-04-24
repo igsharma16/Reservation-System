@@ -18,4 +18,16 @@
         <item name="android:background">#DFDFDF
         </item>
     </style>
+
+
+    <style name="textBack" parent="TextAppearance.AppCompat">
+        <item name="android:background">#BF000000</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+
+
+
+    </style>
 </resources>
